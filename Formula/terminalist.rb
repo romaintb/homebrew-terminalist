@@ -1,8 +1,8 @@
 class Terminalist < Formula
   desc "A terminal-based Todoist client with modern TUI interface"
   homepage "https://github.com/romaintb/terminalist"
-  url "https://github.com/romaintb/terminalist/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "a1c3afb03d36db05e961dc47a8e2a493d55cdd765e9a3810659aa14a5eef8aae"
+  url "https://github.com/romaintb/terminalist/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "25fa07b954e6ec3e93b1d6430a1d171adef183a598ba05e8581b6b685abcb041"
   license "MIT"
   head "https://github.com/romaintb/terminalist.git", branch: "main"
 
